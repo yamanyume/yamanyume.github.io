@@ -12,11 +12,27 @@ My research centers on usable security and privacy, particularly in emerging tec
 
 Recent News
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- **[Oct 18, 2024]**: One paper accepted at IEEE Symposium on Security and Privacy 2025 (S&P2025)! The research explores teenagers' and parents' risk perceptions and mitigation strategies regarding the use of Generative AI platforms. I'll be presenting in San Francisco, CA, during May 2025!
 
-Publications
+- **[Oct 11, 2024]**: One paper accepted at Group 2025! I'll be presenting in Hilton Head Island, SC, on January 12, 2025!
+
+Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=P4u5JI8AAAAJ&hl=en)
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- Exploring Parent-Child Perceptions on Safety in Generative AI: Concerns, Mitigation Strategies, and Design Implications  
+  **Yaman Yu**, Tanusree Sharma, Melinda Hu, Justin Wang, Yang Wang  
+  To appear in the [IEEE Symposium on Security and Privacy (S&P2025)](https://sp2025.ieee-security.org/)  
+  [[Preprint]](https://arxiv.org/pdf/2406.10461)
+
+
+<!-- - Safeguarding Children in Generative AI: Risk Frameworks and Parental Control Tools  
+  **Yaman Yu**  
+  To be presented at the Group 2025 Doctoral Consortium   -->
+
+  - Safeguarding Children in Generative AI: Risk Frameworks and Parental Control Tools  
+    **Yaman Yu**  
+    To be presented at the Group 2025
+
+
 
 
 <!-- A data-driven personal website
