@@ -19,7 +19,8 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    // padding: 1em 1em 1em;
+    padding: 1em 2em 1em 2em; /* Increase left and right padding to 2em */
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -37,7 +38,7 @@
 }
 
 .masthead__menu {
-
+  padding-left: 2em;
   ul {
     margin: 0;
     padding: 0;

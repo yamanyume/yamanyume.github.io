@@ -76,44 +76,80 @@
    Author profile and links
    ========================================================================== */
 
-.author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
+// .author__avatar {
+//   display: table-cell;
+//   vertical-align: top;
+//   width: 36px;
+//   // set width only, for non-square avatars
+//   // height: 36px;
 
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-  }
+//   @include breakpoint($large) {
+//     display: block;
+//     width: auto;
+//     height: auto;
+//   }
+
+//   img {
+//     max-width: 3000px;
+//     // 175px
+//     border-radius: 50%;
+
+//     @include breakpoint($large) {
+//       padding: 3px;
+//       border: 2px solid $border-color;
+//     }
+//   }
+// }
+
+.author__avatar {
+  display: block; /* Use block for better control */
+  width: 200px; /* Increase width for a larger avatar */
+  height: auto; /* Maintain aspect ratio */
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    max-width: 200px; /* Increase the avatar size */
+    height: auto; /* Keep aspect ratio */
+    border-radius: 50%; /* Ensure the avatar is circular */
+  }
 
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+  @include breakpoint($large) {
+    img {
+      padding: 3px;
+      border: 2px solid $border-color; /* Add a border on larger screens */
     }
   }
 }
 
+// .author__content {
+//   display: table-cell;
+//   vertical-align: middle;
+//   text-align: center;
+//   padding-left: 15px;
+//   padding-right: 25px;
+//   line-height: 1;
+
+//   @include breakpoint($large) {
+//     display: block;
+//     width: 100%;
+//     padding-left: 0;
+//     padding-right: 0;
+//   }
+// }
+
 .author__content {
-  display: table-cell;
-  vertical-align: top;
-  padding-left: 15px;
-  padding-right: 25px;
-  line-height: 1;
+  display: block; /* Use block to allow better control over layout */
+  text-align: left; /* Align the text content to the left */
+  padding-left: 25px; /* Ensure no unnecessary padding */
+  padding-right: 0;
+  line-height: 1.2; /* Adjust line height for readability */
 
   @include breakpoint($large) {
-    display: block;
     width: 100%;
-    padding-left: 0;
+    padding-left: 25px;
     padding-right: 0;
   }
 }
+
 
 .author__name {
   margin: 0;
@@ -125,7 +161,8 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: 31.5px;
+  // margin: 20px;
 }
 
 .sidebar .author__desktop {
@@ -145,11 +182,36 @@
 }
 
 .author__bio {
-  margin: 0;
+  // margin: 0;
+
+  // @include breakpoint($large) {
+  //   margin-top: 10px;
+  //   margin-bottom: 20px;
+  // }
+  position: relative;
+  display: table-cell;
+  vertical-align: middle;
+  font-family: $sans-serif;
+  z-index: 10;
+  position: relative;
+  cursor: pointer;
+
+  li:last-child {
+    a {
+      margin-bottom: 0;
+    }
+  }
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    display: block;
+  }
+
+  button {
+    margin-bottom: 0;
+
+    @include breakpoint($large) {
+      display: none;
+    }
   }
 }
 
@@ -184,7 +246,7 @@
 .author__urls {
   display: none;
   position: absolute;
-  right: 0;
+  right: -30px;
   margin-top: 15px;
   padding: 10px;
   list-style-type: none;
