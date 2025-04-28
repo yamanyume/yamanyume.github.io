@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Peer-Reviewed Conference and Symposium Papers
+### Peer-Reviewed Papers
 
 #### 2025
 
