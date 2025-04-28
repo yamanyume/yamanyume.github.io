@@ -20,19 +20,34 @@ Recent News
 
 Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=P4u5JI8AAAAJ&hl=en)
 ------
-- Exploring Parent-Child Perceptions on Safety in Generative AI: Concerns, Mitigation Strategies, and Design Implications  
-  **Yaman Yu**, Tanusree Sharma, Melinda Hu, Justin Wang, Yang Wang  
-  To appear in the [IEEE Symposium on Security and Privacy (S&P2025)](https://sp2025.ieee-security.org/)  
-  [[Preprint]](https://arxiv.org/pdf/2406.10461)
 
+**Exploring Parent-Child Perspectives on Safety in Generative AI: Concerns, Mitigation Strategies, and Design Implications**  
+Yaman Yu, Tanusree Sharma, Melinda Hu, Justin Wang, Yang Wang  
+*IEEE Symposium on Security and Privacy (S&P), 2025*  
+[DOI: 10.1109/SP61157.2025.00090](https://doi.org/10.1109/SP61157.2025.00090)
 
-<!-- - Safeguarding Children in Generative AI: Risk Frameworks and Parental Control Tools  
-  **Yaman Yu**  
-  To be presented at the Group 2025 Doctoral Consortium   -->
+---
 
-  - Safeguarding Children in Generative AI: Risk Frameworks and Parental Control Tools  
-    **Yaman Yu**  
-    To be presented at the Group 2025
+**"Don't Put All Your Eggs in One Basket": How Cryptocurrency Users Choose and Secure Their Wallets**  
+Yaman Yu, Tanusree Sharma, Sauvik Das, Yang Wang  
+*ACM CHI Conference on Human Factors in Computing Systems (CHI), 2024*  
+*Best Paper Honorable Mention*  
+[DOI: 10.1145/3544548.3581191](https://doi.org/10.1145/3544548.3581191)
+
+---
+
+**Design and Evaluation of Inclusive Email Security Indicators for People with Visual Impairments**  
+Yaman Yu, Saidivya Ashok, Smirity Kaushik, Yang Wang, Gang Wang  
+*IEEE Symposium on Security and Privacy (S&P), 2023*
+
+---
+
+**Understanding Generative AI Risks for Youth: A Taxonomy Based on Empirical Data**  
+Yaman Yu, Yiren Liu, Jacky Zhang, Yun Huang, Yang Wang  
+*arXiv preprint arXiv:2502.16383, 2025*  
+[arXiv:2502.16383](https://arxiv.org/abs/2502.16383)
+
+---
 
 
 
