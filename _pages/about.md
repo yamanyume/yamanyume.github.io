@@ -12,6 +12,8 @@ My research centers on usable security and privacy, particularly in emerging tec
 
 Recent News
 ------
+- **[Apr 25, 2025]**: I will be attending CHI 2025 in person! Please stop by and check out two coauthored papers on Web3 social media and improving accessibility for blind sellers in C2C marketplaces. I would be happy to chat!
+
 - **[Oct 18, 2024]**: One paper accepted at IEEE Symposium on Security and Privacy 2025 (S&P2025)! The research explores teenagers' and parents' risk perceptions and mitigation strategies regarding the use of Generative AI platforms. I'll be presenting in San Francisco, CA, during May 2025!
 
 - **[Oct 11, 2024]**: One paper accepted at Group 2025! I'll be presenting in Hilton Head Island, SC, on January 12, 2025!
