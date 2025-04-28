@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Publications
-
 ### Peer-Reviewed Conference Papers
 
 **Using Affordance to Understand Usability of Web3 Social Media**  
