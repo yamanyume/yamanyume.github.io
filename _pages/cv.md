@@ -11,35 +11,83 @@ redirect_from:
 
 ## Publications
 
-**Exploring Parent-Child Perspectives on Safety in Generative AI: Concerns, Mitigation Strategies, and Design Implications**  
+### Peer-Reviewed Conference Papers
+
+**Using Affordance to Understand Usability of Web3 Social Media**  
+Yongqi Guan, Yaman Yu, Kanye Ye Wang  
+*In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2025)*
+
+---
+
+**Exploring Parent-Child Perceptions on Safety in Generative AI: Concerns, Mitigation Strategies, and Design Implications**  
 Yaman Yu, Tanusree Sharma, Melinda Hu, Justin Wang, Yang Wang  
-*In Proceedings of the IEEE Symposium on Security and Privacy (S&P), May 2025*
+*In Proceedings of the IEEE Symposium on Security and Privacy (S&P 2025)*
 
 ---
 
-**Don't Put All Your Eggs in One Basket: How Cryptocurrency Users Choose and Secure Their Wallets**  
+**Security Perceptions of Users in Stablecoins: Advantages and Risks within the Cryptocurrency Ecosystem**  
+Yongqi Guan, Yaman Yu, Tanusree Sharma, Z. Huang, K. Qin, Yang Wang, Kanye Ye Wang  
+*In Proceedings of the IEEE Symposium on Security and Privacy (S&P 2025)*
+
+---
+
+**Cross-Country Examination of People’s Experience with Targeted Advertising on Social Media**  
+Smirity Kaushik, Tanusree Sharma, Yaman Yu, Yang Wang, Yixin Zou  
+*In Proceedings of the Privacy Enhancing Technologies Symposium (PETS 2025)*
+
+---
+
+**"Don't Put All Your Eggs in One Basket": How Cryptocurrency Users Choose and Secure Their Wallets**  
 Yaman Yu, Tanusree Sharma, Sauvik Das, Yang Wang  
-*In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems, May 2024*  
-*(Best Paper Honorable Mention)*
-
----
-
-**I Can't Believe It's Not Custodial: Usable Trustless Decentralized Key Management**  
-Tanusree Sharma, Vishwajeet Nair, Hongxin Wang, Yang Wang, Dawn Song  
-*In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems, May 2024*  
-*(Best Paper Honorable Mention)*
-
----
-
-**ImageAlly: A Human-AI Hybrid Approach to Support Blind People in Detecting and Redacting Private Image Content**  
-Ziqi Zhang, Sayan Kaushik, Jaehyun Seo, Haoyi Yuan, Sauvik Das, Leah Findlater, Danna Gurari, Anhong Guo, Yang Wang  
-*In Proceedings of the Symposium on Usable Privacy and Security (SOUPS), August 2023*
+*In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2024)*  
+*(Best Paper Honorable Mention Award)*
 
 ---
 
 **Design and Evaluation of Inclusive Email Security Indicators for People with Visual Impairments**  
-Yaman Yu, Yang Wang, Leah Findlater  
-*In Proceedings of the IEEE Symposium on Security and Privacy (S&P), May 2023*
+Yaman Yu, Saidivya Ashok, Smirity Kaushik, Yang Wang, Gang Wang  
+*In Proceedings of the IEEE Symposium on Security and Privacy (S&P 2023)*
+
+---
+
+**User Perceptions and Experiences of Targeted Ads on Social Media Platforms: Learning from Bangladesh and India**  
+Tanusree Sharma\*, Smirity Kaushik\*, Yaman Yu\*, Ishtiaque Ahmed, Yang Wang  
+*In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2023)*  
+(\*Equal contribution)
+
+---
+
+**GuardLens: Supporting Safer Online Browsing for People with Visual Impairments**  
+Smirity Kaushik, Nata Barbosa, Yaman Yu, Tanusree Sharma, Zachary Kilhoffer, JooYoung Seo, Sauvik Das, Yang Wang  
+*In Proceedings of the Symposium on Usable Privacy and Security (SOUPS 2023)*
+
+---
+
+### Lightly Reviewed and Late-Breaking Work
+
+**"I Am a Blind Seller!": Picture Taking Assistance for Visually Impaired Individuals in C2C Marketplaces**  
+Ayaka Tsutsui, Kengo Tanaka, Yaman Yu, Bektur Ryskeldiev  
+*In Proceedings of the ACM Conference on Human Factors in Computing Systems Late-Breaking Work (CHI LBW 2025)*
+
+---
+
+**Safeguarding Children in Generative AI: Risk Frameworks and Parental Control Tools**  
+Yaman Yu  
+*In Proceedings of the ACM International Conference on Supporting Group Work (GROUP Doctoral Consortium 2025)*
+
+---
+
+**Cross-Country Examination of People’s Experience with Targeted Advertising on Social Media**  
+Smirity Kaushik, Tanusree Sharma, Yaman Yu, Yang Wang, Yixin Zou  
+*In Proceedings of the ACM Conference on Human Factors in Computing Systems Late-Breaking Work (CHI LBW 2024)*
+
+---
+
+### Posters
+
+**Examining User Perceptions of Stablecoins: Understandings and Risks**  
+Yongqi Guan, Yaman Yu, Tanusree Sharma, Kaihua Qin, Yang Wang, Ye Wang  
+*In Proceedings of the Symposium on Usable Privacy and Security (SOUPS Poster 2023)*
 
 ---
 
