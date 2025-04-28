@@ -69,7 +69,7 @@ Smirity Kaushik, Nata Barbosa, Yaman Yu, Tanusree Sharma, Zachary Kilhoffer, Joo
 
 ---
 
-### Extended Abstracts, Late-Breaking Work, and Workshop Papers
+### Extended Abstracts
 
 #### 2025
 
