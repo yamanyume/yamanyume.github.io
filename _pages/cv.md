@@ -38,6 +38,19 @@ Smirity Kaushik, Tanusree Sharma, Yaman Yu, Ahmed Faisal Ali, Bart P. Knijnenbur
 
 ---
 
+**"I Am a Blind Seller!": Picture Taking Assistance for Visually Impaired Individuals for Participation as Sellers in Customer-to-Customer (C2C) Marketplaces**  
+Ayaka Tsutsui, Kengo Tanaka, Yaman Yu, Bektur Ryskeldiev  
+*ACM CHI Conference on Human Factors in Computing Systems (CHI) Late-Breaking Work, 2025*
+
+---
+
+**Safeguarding Children in Generative AI: Risk Frameworks and Parental Control Tools**  
+Yaman Yu  
+*ACM International Conference on Supporting Group Work (GROUP) Doctoral Consortium, 2025*  
+[DOI: 10.1145/3688828.3699656](https://doi.org/10.1145/3688828.3699656)
+
+---
+
 #### 2024
 
 **"Don't Put All Your Eggs in One Basket": How Cryptocurrency Users Choose and Secure Their Wallets**  
@@ -45,6 +58,13 @@ Yaman Yu, Tanusree Sharma, Sauvik Das, Yang Wang
 *ACM CHI Conference on Human Factors in Computing Systems (CHI), 2024*  
 *Best Paper Honorable Mention*  
 [DOI: 10.1145/3544548.3581191](https://doi.org/10.1145/3544548.3581191)
+
+---
+
+**Cross-Country Examination of People’s Experience with Targeted Advertising on Social Media**  
+Smirity Kaushik, Tanusree Sharma, Yaman Yu, Ahmed Faisal Ali, Yang Wang, Yixin Zou  
+*ACM CHI Conference on Human Factors in Computing Systems (CHI) Late-Breaking Work, 2024*
+
 
 ---
 
@@ -66,31 +86,6 @@ Tanusree Sharma*, Smirity Kaushik*, Yaman Yu*, Ishtiaque Ahmed, Yang Wang
 **GuardLens: Supporting Safer Online Browsing for People with Visual Impairments**  
 Smirity Kaushik, Nata Barbosa, Yaman Yu, Tanusree Sharma, Zachary Kilhoffer, Jooyoung Seo, Sauvik Das, Yang Wang  
 *Symposium on Usable Privacy and Security (SOUPS), 2023*
-
----
-
-### Extended Abstracts
-
-#### 2025
-
-**"I Am a Blind Seller!": Picture Taking Assistance for Visually Impaired Individuals for Participation as Sellers in Customer-to-Customer (C2C) Marketplaces**  
-Ayaka Tsutsui, Kengo Tanaka, Yaman Yu, Bektur Ryskeldiev  
-*ACM CHI Conference on Human Factors in Computing Systems (CHI) Late-Breaking Work, 2025*
-
----
-
-**Safeguarding Children in Generative AI: Risk Frameworks and Parental Control Tools**  
-Yaman Yu  
-*ACM International Conference on Supporting Group Work (GROUP) Doctoral Consortium, 2025*  
-[DOI: 10.1145/3688828.3699656](https://doi.org/10.1145/3688828.3699656)
-
----
-
-#### 2024
-
-**Cross-Country Examination of People’s Experience with Targeted Advertising on Social Media**  
-Smirity Kaushik, Tanusree Sharma, Yaman Yu, Ahmed Faisal Ali, Yang Wang, Yixin Zou  
-*ACM CHI Conference on Human Factors in Computing Systems (CHI) Late-Breaking Work, 2024*
 
 ---
 
