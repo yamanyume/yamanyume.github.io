@@ -21,13 +21,13 @@ Yaman Yu, Tanusree Sharma, Melinda Hu, Justin Wang, Yang Wang
 ---
 
 **Security Perceptions of Users in Stablecoins: Advantages and Risks within the Cryptocurrency Ecosystem**  
-Mingyuan Guan, Yaman Yu, Tanusree Sharma, Mingzheng Huang, Kaihua Qin, Yang Wang, Kanye Ye Wang  
+Yongqi Guan, Yaman Yu, Tanusree Sharma, Mingzheng Huang, Kaihua Qin, Yang Wang, Kanye Ye Wang  
 *IEEE Symposium on Security and Privacy (S&P), 2025*
 
 ---
 
 **Using Affordance to Understand Usability of Web3 Social Media**  
-Mingyuan Guan, Yaman Yu, Kanye Ye Wang  
+Yongqi Guan, Yaman Yu, Kanye Ye Wang  
 *ACM CHI Conference on Human Factors in Computing Systems (CHI), 2025*
 
 ---
@@ -71,8 +71,9 @@ Smirity Kaushik, Tanusree Sharma, Yaman Yu, Ahmed Faisal Ali, Yang Wang, Yixin Z
 #### 2023
 
 **Design and Evaluation of Inclusive Email Security Indicators for People with Visual Impairments**  
-Yaman Yu, Saidivya Ashok, Smirity Kaushik, Yang Wang, Gang Wang  
+Yaman Yu*, Saidivya Ashok*, Smirity Kaushik, Yang Wang, Gang Wang  
 *IEEE Symposium on Security and Privacy (S&P), 2023*
+(*Equal contribution*)
 
 ---
 
@@ -112,7 +113,7 @@ Yaman Yu, Bektur Ryskeldiev, Ayaka Tsutsui, Matthew Gillingham, Yang Wang
 #### 2023
 
 **Examining User Perceptions of Stablecoins: Understandings and Risks**  
-Mingyuan Guan, Yaman Yu, Tanusree Sharma, Kaihua Qin, Yang Wang, Kanye Ye Wang  
+Yongqi Guan, Yaman Yu, Tanusree Sharma, Kaihua Qin, Yang Wang, Kanye Ye Wang  
 *Symposium on Usable Privacy and Security (SOUPS) Poster, 2023*
 
 ---
