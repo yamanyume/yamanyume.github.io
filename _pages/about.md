@@ -10,6 +10,12 @@ I am a Ph.D. candidate in the [School of Information Sciences](https://ischool.i
 
 My goal is to build safer and more resilient human-AI ecosystems for everyone, especially vulnerable populations like youth. Towards this, I focus on developing human-centered models and interaction frameworks that detect and mitigate long-term risks to user autonomy, trust, and wellbeing as AI systems become increasingly embedded in daily life. My research sits at the intersection of **Human-Computer Interaction (HCI)**, **Responsible AI**, and **Human-Centered Safety and Security**. It is inherently interdisciplinary, combining empirical human-centered research, technical model development, and risk-informed design methodologies.
 
+My recent work has focused on advancing human-centered safety for AI systems along three interconnected directions:
+
+- **Characterizing emerging relational risks in AI-human interactions**, including manipulation, emotional dependency, trust distortion, and autonomy erosion during prolonged engagement with generative AI platforms.
+- **Evaluating the limitations of current AI safeguards**, identifying how existing content moderation and safety mechanisms fail to detect cumulative and developmental harms that emerge over time rather than through isolated incidents.
+- **Developing new conceptual and technical frameworks for relational AI safety**, including risk taxonomies, early risk detection models, and adaptive intervention strategies that center user resilience, autonomy, and long-term wellbeing.
+
 Recent News
 ------
 - **[Apr 25, 2025]**: I will be attending CHI 2025 in person! Please stop by and check out two coauthored papers on Web3 social media and improving accessibility for blind sellers in C2C marketplaces. I would be happy to chat!
