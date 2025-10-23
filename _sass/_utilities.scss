@@ -216,6 +216,14 @@ body:hover .visually-hidden button {
   .fa-facebook,
   .fa-facebook-square {
     color: $facebook-color;
+    text-decoration: none;
+
+    &:hover {
+       text-decoration: underline;
+     }
+    a {
+       color: inherit;
+    }
   }
 
   .fa-flickr {
