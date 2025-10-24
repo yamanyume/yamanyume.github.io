@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate in the School of Information Sciences at the <span class='fa-facebook-square'>University of Illinois Urbana-Champaign</span>, advised by Professor <span class='fa-facebook-square'>Yang Wang</span> in SALT Lab. I am a recipient of the 2025 <span class='text-colored'>[Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/recipients/)</span> and <span class='text-colored'>[MIT EECS Rising Star](https://risingstars-eecs.mit.edu/participants/?y=2025&search_page=4)</span>. Before joining the SALT Lab, I received my MS from Heinz College at Carnegie Mellon University, where I was fortunate to be advised by Professors <span class='fa-facebook-square'>Alessandro Acquisti</span> and <span class='fa-facebook-square'>Cristobal Cheyre</span>.
+I am a Ph.D. candidate in the School of Information Sciences at the <span class='text-highlight'>University of Illinois Urbana-Champaign</span>, advised by Professor <span class='text-highlight'>Yang Wang</span> in SALT Lab. I am a recipient of the 2025 <span class='text-colored'>[Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/recipients/)</span> and <span class='text-colored'>[MIT EECS Rising Star](https://risingstars-eecs.mit.edu/participants/?y=2025&search_page=4)</span>. Before joining the SALT Lab, I received my MS from Heinz College at Carnegie Mellon University, where I was fortunate to be advised by Professors <span class='fa-facebook-square'>Alessandro Acquisti</span> and <span class='fa-facebook-square'>Cristobal Cheyre</span>.
 
 <span class='required'> I am on the 2025-2026 academic job market and am actively seeking tenure-track faculty and postdoctoral positions in Information Science and Computer Science. Please reach out if you know of a good fit in your department or network.</span>
 
@@ -20,7 +20,7 @@ My recent work has focused on advancing human-centered safety for AI systems alo
 
 Recent News
 ------
-- **[Sept 2025]**: I was selected as a <span class='fa-facebook-square'>[MIT EECS Rising Star](https://risingstars-eecs.mit.edu/participants/?y=2025&search_page=4)</span> ⭐ for 2025. I will be attending the workshop in Boston this November!
+- **[Sept 2025]**: I was selected as a <span class='text-highlight'>[MIT EECS Rising Star](https://risingstars-eecs.mit.edu/participants/?y=2025&search_page=4)</span> ⭐ for 2025. I will be attending the workshop in Boston this November!
 
 - **[Apr 2025]**: I will be attending CHI 2025 in person! Please stop by and check out two coauthored papers on Web3 social media and improving accessibility for blind sellers in C2C marketplaces. I would be happy to chat!
 
