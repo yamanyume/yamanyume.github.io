@@ -509,33 +509,16 @@ a.reversefootnote {
   }
 }
 
-/*
- * Your new "text-highlight" class
- */
+.text-highlight {
+   color: $facebook-color;
 
-/* 1. Sets the custom color for any element (span, a, etc.)
- * and for any link INSIDE that element.
- * 2. Removes the default underline from links.
- */
-.text-highlight,
-.text-highlight a {
-  color: #3b5998; /* This is the Facebook blue, change as needed */
-  text-decoration: none;
+   a {
+      color: inherit;
+      text-decoration: none;
+
+      &:hover {
+         text-decoration: underline;
+      }
+   }
 }
 
-/* 3. FORCES links to keep this color even after being visited.
- * Without this, visited links would turn purple.
- */
-a.text-highlight:visited,
-a.text-highlight:active,
-.text-highlight a:visited,
-.text-highlight a:active {
-  color: #3b5998;
-}
-
-/* 4. Adds the underline ONLY on hover.
- */
-.text-highlight:hover,
-.text-highlight a:hover {
-  text-decoration: underline;
-}
