@@ -513,11 +513,11 @@ a.reversefootnote {
    color: $facebook-color;
 
    a {
-      color: inherit;
-      text-decoration: none;
+      color: inherit !important;
+      text-decoration: none !important;
 
       &:hover {
-         text-decoration: underline;
+         text-decoration: underline !important;
       }
    }
 }
