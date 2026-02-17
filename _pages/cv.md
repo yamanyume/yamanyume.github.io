@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Peer-Reviewed Papers
+### Peer-Reviewed Papers [[Google Scholar]](https://scholar.google.com/citations?user=P4u5JI8AAAAJ&hl=en)
 
 #### 2025
 
