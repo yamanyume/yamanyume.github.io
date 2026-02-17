@@ -13,9 +13,10 @@ redirect_from:
 
 #### 2026
   **Principles of Safe AI Companions for Youth: Parent and Expert Perspectives**  
-  Yongqi Guan, Yaman Yu, Kanye Ye Wang  
-  *ACM CHI Conference on Human Factors in Computing Systems (CHI), 2026*
+  Yaman Yu, Mohi, Aishi Debroy, Xin Cao, Karen Rudolph, Yang Wang  
+  *ACM CHI Conference on Human Factors in Computing Systems (CHI), 2026*  
   [PDF](https://arxiv.org/pdf/2510.11185), [Website](https://aisafety4kids.org/)
+  
   
   ---
   **Developmentally Safe Generative AI Environments for Youth**  
