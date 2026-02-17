@@ -34,7 +34,7 @@ Recent News
 
 - **[Oct 2024]**: One paper accepted at Group 2025! I'll be presenting in Hilton Head Island, SC, on January 12, 2025!
 
-Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=P4u5JI8AAAAJ&hl=en)
+<!--Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=P4u5JI8AAAAJ&hl=en)
 ------
 
 **Exploring Parent-Child Perspectives on Safety in Generative AI: Concerns, Mitigation Strategies, and Design Implications**  
