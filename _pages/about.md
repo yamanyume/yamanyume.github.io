@@ -26,7 +26,7 @@ Recent News
 
 - **[Sept 2025]**: I was selected as a <span class='text-highlight'>[MIT EECS Rising Star](https://risingstars-eecs.mit.edu/participants/?y=2025&search_page=4)</span> ⭐ for 2025. I will be attending the workshop in Boston this November!
 
-- **[July 2025]**: I was honored to be named a <span class='text-highlight'>[Google PhD Fellow](https://research.google/programs-and-events/phd-fellowship/recipients/)</span> for 2025. 
+- **[July 2025]**: I was honored to be named a <span class='text-highlight'>[Google PhD Fellow](https://research.google/programs-and-events/phd-fellowship/recipients/)</span> for 2025! 
 
 - **[Apr 2025]**: I will be attending CHI 2025 in person! Please stop by and check out two coauthored papers on Web3 social media and improving accessibility for blind sellers in C2C marketplaces. I would be happy to chat!
 
