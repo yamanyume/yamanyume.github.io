@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications[[Google Scholar]](https://scholar.google.com/citations?user=P4u5JI8AAAAJ&hl=en)"
+title: 'Publications <a href="https://scholar.google.com/citations?user=P4u5JI8AAAAJ&hl=en" target="_blank" rel="noopener">[Google Scholar]</a>'
 permalink: /pub/
 author_profile: true
 redirect_from:
