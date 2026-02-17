@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Publications [Google Scholar](https://scholar.google.com/citations?user=P4u5JI8AAAAJ&hl=en)
+title: Publications
 permalink: /pub/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[Google Scholar](https://scholar.google.com/citations?user=P4u5JI8AAAAJ&hl=en)
 #### 2026
 
 **Principles of Safe AI Companions for Youth: Parent and Expert Perspectives**  
