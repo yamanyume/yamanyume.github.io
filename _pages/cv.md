@@ -14,23 +14,22 @@ redirect_from:
 #### 2026
   
   **Principles of Safe AI Companions for Youth: Parent and Expert Perspectives**  
-  Yaman Yu, Mohi, Aishi Debroy, Xin Cao, Karen Rudolph, Yang Wang 
+  Yaman Yu, Mohi, Aishi Debroy, Xin Cao, Karen Rudolph, Yang Wang
   *ACM CHI Conference on Human Factors in Computing Systems (CHI), 2026*  
   [PDF](https://arxiv.org/pdf/2510.11185), [Website](https://aisafety4kids.org/)
   
-  
   ---
   **Developmentally Safe Generative AI Environments for Youth**  
-  Jake Chanenson*，Yaman Yu*, Jessica Vitak, Sheena Erete, Tamara Clegg, Diana Freed, Marshini Chetty 
+  Jake Chanenson*，Yaman Yu*, Jessica Vitak, Sheena Erete, Tamara Clegg, Diana Freed, Marshini Chetty
   *ACM CHI Conference on Human Factors in Computing Systems (CHI), 2026*  
   [Website](https://www.youthaisafety.com/)
-
----
+  
+  ---
 #### 2025
 
   **YouthSafe: A Youth-Centric Safety Benchmark and Safeguard Model for Large Language Models**  
   Yaman Yu, Yiren Liu, Jacky Zhang, Yun Huang, Yang Wang  
-  *The ACM Conference on Computer and Communications Security (CCS), 2025*  
+  *ACM Conference on Computer and Communications Security (CCS), 2025*  
   [PDF](https://dl.acm.org/doi/pdf/10.1145/3719027.3765168), [Website](https://aisafety4kids.org/)
   
   ---
