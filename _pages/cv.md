@@ -92,7 +92,7 @@ redirect_from:
   **"Don't Put All Your Eggs in One Basket": How Cryptocurrency Users Choose and Secure Their Wallets**  
   Yaman Yu, Tanusree Sharma, Sauvik Das, Yang Wang  
   *ACM CHI Conference on Human Factors in Computing Systems (CHI), 2024*  
-  *Best Paper Honorable Mention*  
+  *🏆 <span style="color:#b45309;">Best Paper Honorable Mention</span>*  
   [DOI: 10.1145/3544548.3581191](https://doi.org/10.1145/3544548.3581191)
   
   ---
@@ -109,14 +109,12 @@ redirect_from:
   **Design and Evaluation of Inclusive Email Security Indicators for People with Visual Impairments**  
   Yaman Yu*, Saidivya Ashok*, Smirity Kaushik, Yang Wang, Gang Wang  
   *IEEE Symposium on Security and Privacy (S&P), 2023*
-  (*Equal contribution*)
   
   ---
   
   **User Perceptions and Experiences of Targeted Ads on Social Media Platforms: Learning from Bangladesh and India**  
   Tanusree Sharma*, Smirity Kaushik*, Yaman Yu*, Ishtiaque Ahmed, Yang Wang  
   *ACM CHI Conference on Human Factors in Computing Systems (CHI), 2023*  
-  (*Equal contribution*)
   
   ---
   
