@@ -20,7 +20,7 @@ redirect_from:
   
   ---
   **Developmentally Safe Generative AI Environments for Youth**  
-  Jake Chanenson*，Yaman Yu*, Jessica Vitak, Sheena Erete, Tamara Clegg, Diana Freed, Marshini Chetty
+  Jake Chanenson*，Yaman Yu*, Jessica Vitak, Sheena Erete, Tamara Clegg, Diana Freed, Marshini Chetty  
   *ACM CHI Conference on Human Factors in Computing Systems (CHI), 2026*  
   [Website](https://www.youthaisafety.com/)
   
