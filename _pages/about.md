@@ -10,17 +10,23 @@ I am a Ph.D. candidate in the School of Information Sciences at the <span class=
 
 <span class='required'> I am on the 2025-2026 academic job market and am actively seeking tenure-track faculty and postdoctoral positions in Information Science and Computer Science. Please reach out if you know of a good fit in your department or network.</span>
 
-My goal is to build safer and more resilient human-AI ecosystems for everyone, especially vulnerable populations like youth. Towards this, I focus on developing human-centered models and interaction frameworks that detect and mitigate long-term risks to user autonomy, trust, and wellbeing as AI systems become increasingly embedded in daily life. My research sits at the intersection of **Human-Computer Interaction (HCI)**, **Responsible AI**, and **Human-Centered Safety and Security**. It is inherently interdisciplinary, combining empirical human-centered research, technical model development, and risk-informed design methodologies.
+My goal is to build safer and more resilient human-AI ecosystems for everyone, especially at-risk users like youth. Towards this, I focus on developing human-centered models and interaction frameworks that detect and mitigate long-term risks to user autonomy, trust, and wellbeing as AI systems become increasingly embedded in daily life. My research sits at the intersection of **Human-Computer Interaction (HCI)**, **Responsible AI**, and **Human-Centered Safety and Security**. It is inherently interdisciplinary, combining empirical human-centered research, technical model development, and risk-informed design methodologies.
 
 My recent work has focused on advancing human-centered safety for AI systems along three interconnected directions:
 
 - **Characterizing emerging relational risks in AI-human interactions**, including manipulation, emotional dependency, trust distortion, and autonomy erosion during prolonged engagement with generative AI platforms.
 - **Evaluating the limitations of current AI safeguards**, identifying how existing content moderation and safety mechanisms fail to detect cumulative and developmental harms that emerge over time rather than through isolated incidents.
-- **Developing new conceptual and technical frameworks for relational AI safety**, including risk taxonomies, early risk detection models, and adaptive intervention strategies that center user resilience, autonomy, and long-term wellbeing.
+- **Developing new conceptual and technical frameworks for AI safety**, including risk taxonomies, early risk detection models, and adaptive intervention strategies that center user resilience, autonomy, and long-term wellbeing.
 
 Recent News
 ------
+- **[Jan 2026]**: <span class='text-highlight'>[One paper](https://arxiv.org/pdf/2510.11185)</span> and <span class='text-highlight'>[one workshop](https://yamanyume.github.io/youthsafety/)</span> were accepted at CHI 2026, both centered on developmentally safe AI experiences for youth. See you in Barcelona.
+
+- **[Dec 2025]**: Our research was selected for funding by the Prosocial Design Network (PDN) and Roblox through the <span class='text-highlight'>[Prosocial Game Design grant program](https://www.prosocialdesign.org/blog/research-grants-awarded-prosocial-game-design)</span>.
+
 - **[Sept 2025]**: I was selected as a <span class='text-highlight'>[MIT EECS Rising Star](https://risingstars-eecs.mit.edu/participants/?y=2025&search_page=4)</span> ⭐ for 2025. I will be attending the workshop in Boston this November!
+
+- **[July 2025]**: I was honored to be named a <span class='text-highlight'>[Google PhD Fellow]([https://risingstars-eecs.mit.edu/participants/?y=2025&search_page=4](https://research.google/programs-and-events/phd-fellowship/recipients/))</span> for 2025. 
 
 - **[Apr 2025]**: I will be attending CHI 2025 in person! Please stop by and check out two coauthored papers on Web3 social media and improving accessibility for blind sellers in C2C marketplaces. I would be happy to chat!
 
